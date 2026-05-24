@@ -1,0 +1,19 @@
+# Installed apps (downloaded at runtime)
+CCSwitch/
+ClaudeDesktop/
+
+# Temp download cache
+_dl/
+
+# Downloaded files
+*.zip
+*.exe
+*.msix
+*.7z
+
+# Generated scripts (created by installer)
+launch.bat
+uninstall.bat
+
+# 7-Zip tool
+7za.exe
