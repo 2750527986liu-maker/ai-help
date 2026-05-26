@@ -1,24 +1,9 @@
-# Python
+CCSwitch/
+ClaudeDesktop/
+7za.exe
+*.zip
+*.exe
+launch.bat
+uninstall.bat
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Project workspace
-.claude-work/
+*.pyc
